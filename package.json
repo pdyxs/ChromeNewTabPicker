@@ -1,7 +1,7 @@
 {
-  "name": "the-neighbourhood",
+  "name": "chrome-newtab",
   "version": "0.0.1",
-  "description": "The Neighbourhood: An exploration of the stars",
+  "description": "Chrome New Tab Picker",
   "scripts": {
     "build-icons": "cd windowdresser && npm install && node windowdresser.js && cp -R dist/app ../img",
     "build-web": "webpack",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pdyxs/TheNeighbourhood.git"
+    "url": "https://github.com/pdyxs/ChromeNewTabPicker.git"
   },
   "keywords": [],
   "author": "",

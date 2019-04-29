@@ -2,13 +2,13 @@ import {compose, createStore, applyMiddleware} from 'redux';
 import thunk from 'redux-thunk';
 
 import navigation from 'modules/navigation';
-import analytics from 'modules/analytics';
+import tabs from 'modules/tabs';
 
 import { combineReducers, install } from 'redux-loop';
 
 const store = createStore(combineReducers({
-  analytics,
-  navigation
+  navigation,
+  tabs
 }), {}, compose(
   install(),
   applyMiddleware(thunk)

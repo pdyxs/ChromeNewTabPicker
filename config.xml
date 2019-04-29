@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="wtf.pdyxs.theneighbourhood" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>The Neighbourhood</name>
+    <name>Chrome New Tab Picker</name>
     <description>
-        Exploring the stars
+        New Tab Picker for chrome
     </description>
     <author email="talk@pdyxs.wtf" href="http://pdyxs.wtf">
         Paul Sztajer

@@ -1,7 +1,0 @@
-title: Budget Haver
-email: talk@pdyxs.wtf
-description: "A website for Budget Haver: a budgeting app"
-url: https://budgethaver.app
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
